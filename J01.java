@@ -1,5 +1,5 @@
 
-class first {
+class J01 {
 
     static int maxNum(int[] arr) {
         int max = 0;
